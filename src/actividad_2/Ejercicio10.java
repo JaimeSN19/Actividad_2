@@ -1,6 +1,6 @@
 package actividad_2;
 
-import actividad2.Teclado;
+import actividad_2.Teclado;
 
 public class Ejercicio10 {
     public static void main(String[] args) {
